@@ -82,6 +82,7 @@ target/
 *.pth
 *.pt
 *.weights
+*.trt
 #videos
 *.mp4
 
